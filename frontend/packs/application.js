@@ -8,5 +8,8 @@
 // layout file, like app/views/layouts/application.html.erb
 import "./application.css";
 
-document.body.insertAdjacentHTML("afterbegin", "Finally react and webpacker!!!");
-console.log('Hello World from Webpacker')
+document.body.insertAdjacentHTML(
+  "afterbegin",
+  "Finally react and webpacker!!!"
+);
+console.log("Hello World from Webpacker");
