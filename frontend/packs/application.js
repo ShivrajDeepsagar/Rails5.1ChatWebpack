@@ -13,3 +13,4 @@
 //   "Finally react and webpacker!!!"
 // );
 // console.log("Hello World from Webpacker");
+import "init";
