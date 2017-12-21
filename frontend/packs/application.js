@@ -8,9 +8,11 @@
 // layout file, like app/views/layouts/application.html.erb
 // import "./application.css";
 //
+// import "./application.css";
+
 // document.body.insertAdjacentHTML(
 //   "afterbegin",
 //   "Finally react and webpacker!!!"
 // );
-// console.log("Hello World from Webpacker");
+console.log("Hello World from Webpacker");
 import "init";

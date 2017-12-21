@@ -4,7 +4,8 @@
   "dependencies": {
     "@rails/webpacker": "^3.2.0",
     "coffeescript": "1.12.7",
-    "normalize.css": "^7.0.0"
+    "normalize.css": "^7.0.0",
+    "bootstrap": "3.3.7"
   },
 
   "scripts": {
