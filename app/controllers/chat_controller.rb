@@ -7,7 +7,7 @@ class ChatController < ApplicationController
 
   private
 
-  def authenticate
+  def authenticate!
     redirect_to login_path unless session[:username]
   end
 end
